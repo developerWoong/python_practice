@@ -12,7 +12,7 @@ if int(current_time[1]) == 00 :
 elif int(current_time[1]) != 00 : 
     print("정각이 아닙니다.")
 
-# 다른 답변:
+# 다른 답안:
 # time = input("현재시간: ")
 # if time[-2:] == "00":
 #     print("정각 입니다.")
