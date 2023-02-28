@@ -19,7 +19,7 @@ elif number[0] == "019":
 elif number[0] == "010":
     print("당신은 알수없음 사용자입니다.")
 
-# 다른 답변:
+# 다른 답안:
 # number = input("휴대전화 번호 입력: ")
 # num = number.split("-")[0]
 # if num == "011":
