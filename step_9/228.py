@@ -4,6 +4,6 @@
 # calc_monthly_salary(12000000)
 # 1000000
 
-def calc_minthly_salary(annual_salary):
-    print(annual_salary / 12).floor()
-
+def calc_monthly_salary(annual_pay):
+    monthly_pay = int(annual_pay / 12)
+    return monthly_pay
